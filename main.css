@@ -1,0 +1,14 @@
+li {
+    text-align: left;
+}
+
+.service_icon_online_shop {
+    min-height: 104px;
+}
+
+.w50_online_shop {
+    width: 50% !important;
+    padding: 4rem;
+    align-self: center;
+    text-align: left;
+}
